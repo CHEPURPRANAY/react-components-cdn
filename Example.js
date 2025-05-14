@@ -1,5 +1,4 @@
 (function () {
-  const { useState } = React;
 
   const ContactUs = () => {
     const initialFields = [
